@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.sharebeauty.gxl.sharebeauty_master" >
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppThemeNoActionBar" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Activity.CaseShareActivity"
+            android:label="@string/title_activity_equipment" >
+        </activity>
+        <activity
+            android:name=".Activity.EquipmentActivity"
+            android:label="@string/title_activity_equipment" >
+        </activity>
+        <activity
+            android:name=".Activity.AppointmentActivity"
+            android:label="@string/title_activity_equipment" >
+        </activity>
+        <activity
+            android:name=".Activity.ProjectDetailsActivity"
+            android:label="@string/title_activity_project_details" >
+        </activity>
+        <activity
+            android:name=".Activity.ConfirmOrderActivity"
+            android:label="@string/title_activity_equipment" >
+        </activity>
+        <activity
+            android:name=".Activity.SelectAddressActivity"
+            android:label="@string/title_activity_equipment" >
+        </activity>
+        <activity
+            android:name=".Activity.NewAddressActivity"
+            android:label="@string/title_activity_equipment" >
+        </activity>
+        <activity
+            android:name=".Activity.PayActivity"
+            android:label="@string/title_activity_equipment" >
+        </activity>
+        <activity
+            android:name=".Activity.GoodsDetailsActivity"
+            android:label="@string/title_activity_equipment" >
+        </activity>
+        <activity
+            android:name=".Activity.OrderManagerActivity"
+            android:label="@string/title_activity_equipment" >
+        </activity>
+    </application>
+
+</manifest>

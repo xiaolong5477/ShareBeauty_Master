@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="deep_violet">#6a005f</color>
+    <color name="gray_bottom">#eeeeee</color>
+    <color name="colorPrimaryDark">#88337f</color>
+    <color name="Equipment_item_btn_bg">#7130a4</color>
+    <color name="Num_Text_color">#626262</color>
+    <color name="gary_line">#DDDDDD</color>
+    <color name="shop_item_text_color">#5d5b5c</color>
+    <color name="shop_price_text_color">#e4007f</color>
+    <color name="shop_confirm_text_color">#88337f</color>
+    <color name="address_bg">#dddddd</color>
+    <color name="Text_Dresser_Name">#283030</color>
+    <color name="Text_Price_Text">#a5a5a5</color>
+    <color name="Goods_Foot_Text">#ea68a2</color>
+    <color name="Goods_Details_Btn">#7130a3</color>
+    <color name="Pop_Menu_Bg">#8588337f</color>
+
+
+    <color name="pink_bar">#ed5f8f</color>
+    <color name="pink_bar_D">#5eed5f8e</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#ffffff</color> <!-- 白色 -->
+    <color name="TMwhite">#90ffffff</color> <!-- 白色 -->
+    <color name="Text_Title">#465050</color>
+    <color name="Text_color">#4f565c</color>
+    <color name="gray_fontv">#a0a0a0</color>
+    <color name="base_bg">#f3fafa</color>
+    <color name="base_bg_1">#f0fafa</color>
+    <color name="base_color">#62f3fafa</color>
+    <color name="base_color_1">#82f3fafa</color>
+    <color name="Text_Tag">#8c96a0</color>
+    <color name="Pop_click">#f1f2f4</color>
+    <color name="Text_Tag_60">#6f8c96a0</color>
+    <color name="Text_Tag_80">#8f8c96a0</color>
+    <color name="Text_Tag_90">#9f8c96a0</color>
+    <color name="index_TextColor_small">#737373</color>
+    <color name="index_TextColor_big">#4d4d4d</color>
+    <color name="divider_color">#d2dcdc</color>
+    <color name="divider_color_1">#d1d1d1</color>
+    <color name="num_line_color">#e5e5e5</color>
+    <color name="pink_line">#f36263</color>
+    <color name="TMBlack">#b0000000</color>
+    <color name="CircleImg_Gary">#e0dfdf</color>
+    <color name="CircleImg_Pink">#e0dfdf</color>
+    <color name="yudian_1">#717178</color>
+    <color name="yudian_2">#24242b</color>
+    <color name="Text_Color_Gary">#747474</color>
+
+    <color name="WriteAndGray">#F0F0F0</color>
+    <color name="Text_Gray">#757575</color>
+    <color name="TMcolor">#80000000</color>
+</resources>

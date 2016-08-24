@@ -1,0 +1,23 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/gray_bottom"
+    >
+    <com.jcodecraeer.xrecyclerview.XRecyclerView_SlideHead
+        android:layout_marginTop="30dp"
+        android:id="@+id/recyclerview"
+        android:layout_width="fill_parent"
+        android:overScrollMode="never"
+        android:scrollbars="none"
+        android:layout_height="fill_parent" />
+    <include
+        layout="@layout/topbar"/>
+    <include
+        android:layout_below="@+id/topbar"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        layout="@layout/order_manager_native"/>
+
+</RelativeLayout>

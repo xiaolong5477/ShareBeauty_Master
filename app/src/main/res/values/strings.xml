@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ShareBeauty_Master</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_equipment">Activity</string>
+    <string name="title_activity_project_details">ProjectDetails</string>
+</resources>

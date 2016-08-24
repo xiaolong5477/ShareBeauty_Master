@@ -1,0 +1,39 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    >
+    <com.jcodecraeer.xrecyclerview.XRecyclerView_SlideHead
+        android:layout_marginTop="44dp"
+        android:layout_marginBottom="-1dp"
+        android:id="@+id/recyclerview"
+        android:overScrollMode="never"
+        android:scrollbars="none"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" />
+    <include
+        layout="@layout/topbar"/>
+    <include
+        android:id="@+id/shop_price_box"
+        android:layout_below="@+id/topbar"
+        layout="@layout/shop_head"
+        android:layout_height="45dp"
+        android:layout_width="fill_parent" />
+    <View
+        android:layout_below="@+id/shop_price_box"
+        android:layout_width="match_parent"
+        android:layout_height="0.7dp"
+        android:background="@color/num_line_color"/>
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/FAB"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_margin="20dp"
+        app:fabSize="mini"
+        android:src="@drawable/ic_pay"
+        />
+</RelativeLayout>

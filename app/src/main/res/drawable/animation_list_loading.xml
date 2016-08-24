@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:duration="@integer/loading_anim_time">
+        <rotate
+                android:drawable="@drawable/loading_hl"
+                android:fromDegrees="0"
+                android:pivotX="50%"
+                android:pivotY="50%"
+                android:toDegrees="10"
+                android:visible="true"/>
+    </item>
+    <item android:duration="@integer/loading_anim_time">
+        <rotate
+                android:drawable="@drawable/loading_hl"
+                android:fromDegrees="0"
+                android:pivotX="50%"
+                android:pivotY="50%"
+                android:toDegrees="20"
+                android:visible="true"/>
+    </item>
+    <item android:duration="@integer/loading_anim_time">
+        <rotate
+                android:drawable="@drawable/loading_hl"
+                android:fromDegrees="0"
+                android:pivotX="50%"
+                android:pivotY="50%"
+                android:toDegrees="30"
+                android:visible="true"/>
+    </item>
+    <item android:duration="@integer/loading_anim_time">
+        <rotate
+                android:drawable="@drawable/loading_hl"
+                android:fromDegrees="0"
+                android:pivotX="50%"
+                android:pivotY="50%"
+                android:toDegrees="40"
+                android:visible="true"/>
+    </item>
+    <item android:duration="@integer/loading_anim_time">
+        <rotate
+                android:drawable="@drawable/loading_hl"
+                android:fromDegrees="0"
+                android:pivotX="50%"
+                android:pivotY="50%"
+                android:toDegrees="50"
+                android:visible="true"/>
+    </item>
+    <item android:duration="@integer/loading_anim_time">
+        <rotate
+                android:drawable="@drawable/loading_hl"
+                android:fromDegrees="0"
+                android:pivotX="50%"
+                android:pivotY="50%"
+                android:toDegrees="60"
+                android:visible="true"/>
+    </item>
+    <item android:duration="@integer/loading_anim_time">
+        <rotate
+                android:drawable="@drawable/loading_hl"
+                android:fromDegrees="0"
+                android:pivotX="50%"
+                android:pivotY="50%"
+                android:toDegrees="70"
+                android:visible="true"/>
+    </item>
+    <item android:duration="@integer/loading_anim_time">
+        <rotate
+                android:drawable="@drawable/loading_hl"
+                android:fromDegrees="0"
+                android:pivotX="50%"
+                android:pivotY="50%"
+                android:toDegrees="80"
+                android:visible="true"/>
+    </item>
+    <item android:duration="@integer/loading_anim_time">
+        <rotate
+                android:drawable="@drawable/loading_hl"
+                android:fromDegrees="0"
+                android:pivotX="50%"
+                android:pivotY="50%"
+                android:toDegrees="90"
+                android:visible="true"/>
+    </item>
+    <item android:duration="@integer/loading_anim_time">
+        <rotate
+                android:drawable="@drawable/loading_hl"
+                android:fromDegrees="0"
+                android:pivotX="50%"
+                android:pivotY="50%"
+                android:toDegrees="100"
+                android:visible="true"/>
+    </item>
+    <item android:duration="@integer/loading_anim_time">
+        <rotate
+                android:drawable="@drawable/loading_hl"
+                android:fromDegrees="0"
+                android:pivotX="50%"
+                android:pivotY="50%"
+                android:toDegrees="110"
+                android:visible="true"/>
+    </item>
+    <item android:duration="@integer/loading_anim_time">
+        <rotate
+                android:drawable="@drawable/loading_hl"
+                android:fromDegrees="0"
+                android:pivotX="50%"
+                android:pivotY="50%"
+                android:toDegrees="120"
+                android:visible="true"/>
+    </item>
+    <item android:duration="@integer/loading_anim_time">
+        <rotate
+                android:drawable="@drawable/loading_hl"
+                android:fromDegrees="0"
+                android:pivotX="50%"
+                android:pivotY="50%"
+                android:toDegrees="130"
+                android:visible="true"/>
+    </item>
+    <item android:duration="@integer/loading_anim_time">
+        <rotate
+                android:drawable="@drawable/loading_hl"
+                android:fromDegrees="0"
+                android:pivotX="50%"
+                android:pivotY="50%"
+                android:toDegrees="140"
+                android:visible="true"/>
+    </item>
+    <item android:duration="@integer/loading_anim_time">
+        <rotate
+                android:drawable="@drawable/loading_hl"
+                android:fromDegrees="0"
+                android:pivotX="50%"
+                android:pivotY="50%"
+                android:toDegrees="150"
+                android:visible="true"/>
+    </item>
+    <item android:duration="@integer/loading_anim_time">
+        <rotate
+                android:drawable="@drawable/loading_hl"
+                android:fromDegrees="0"
+                android:pivotX="50%"
+                android:pivotY="50%"
+                android:toDegrees="160"
+                android:visible="true"/>
+    </item>
+    <item android:duration="@integer/loading_anim_time">
+        <rotate
+                android:drawable="@drawable/loading_hl"
+                android:fromDegrees="0"
+                android:pivotX="50%"
+                android:pivotY="50%"
+                android:toDegrees="170"
+                android:visible="true"/>
+    </item>
+    <item android:duration="@integer/loading_anim_time">
+        <rotate
+                android:drawable="@drawable/loading_hl"
+                android:fromDegrees="0"
+                android:pivotX="50%"
+                android:pivotY="50%"
+                android:toDegrees="180"
+                android:visible="true"/>
+    </item>
+    <item android:duration="@integer/loading_anim_time">
+        <rotate
+                android:drawable="@drawable/loading_hl"
+                android:fromDegrees="0"
+                android:pivotX="50%"
+                android:pivotY="50%"
+                android:toDegrees="190"
+                android:visible="true"/>
+    </item>
+    <item android:duration="@integer/loading_anim_time">
+        <rotate
+                android:drawable="@drawable/loading_hl"
+                android:fromDegrees="0"
+                android:pivotX="50%"
+                android:pivotY="50%"
+                android:toDegrees="200"
+                android:visible="true"/>
+    </item>
+    <item android:duration="@integer/loading_anim_time">
+        <rotate
+                android:drawable="@drawable/loading_hl"
+                android:fromDegrees="0"
+                android:pivotX="50%"
+                android:pivotY="50%"
+                android:toDegrees="210"
+                android:visible="true"/>
+    </item>
+    <item android:duration="@integer/loading_anim_time">
+        <rotate
+                android:drawable="@drawable/loading_hl"
+                android:fromDegrees="0"
+                android:pivotX="50%"
+                android:pivotY="50%"
+                android:toDegrees="220"
+                android:visible="true"/>
+    </item>
+    <item android:duration="@integer/loading_anim_time">
+        <rotate
+                android:drawable="@drawable/loading_hl"
+                android:fromDegrees="0"
+                android:pivotX="50%"
+                android:pivotY="50%"
+                android:toDegrees="230"
+                android:visible="true"/>
+    </item>
+    <item android:duration="@integer/loading_anim_time">
+        <rotate
+                android:drawable="@drawable/loading_hl"
+                android:fromDegrees="0"
+                android:pivotX="50%"
+                android:pivotY="50%"
+                android:toDegrees="240"
+                android:visible="true"/>
+    </item>
+    <item android:duration="@integer/loading_anim_time">
+        <rotate
+                android:drawable="@drawable/loading_hl"
+                android:fromDegrees="0"
+                android:pivotX="50%"
+                android:pivotY="50%"
+                android:toDegrees="250"
+                android:visible="true"/>
+    </item>
+    <item android:duration="@integer/loading_anim_time">
+        <rotate
+                android:drawable="@drawable/loading_hl"
+                android:fromDegrees="0"
+                android:pivotX="50%"
+                android:pivotY="50%"
+                android:toDegrees="260"
+                android:visible="true"/>
+    </item>
+    <item android:duration="@integer/loading_anim_time">
+        <rotate
+                android:drawable="@drawable/loading_hl"
+                android:fromDegrees="0"
+                android:pivotX="50%"
+                android:pivotY="50%"
+                android:toDegrees="270"
+                android:visible="true"/>
+    </item>
+    <item android:duration="@integer/loading_anim_time">
+        <rotate
+                android:drawable="@drawable/loading_hl"
+                android:fromDegrees="0"
+                android:pivotX="50%"
+                android:pivotY="50%"
+                android:toDegrees="280"
+                android:visible="true"/>
+    </item>
+    <item android:duration="@integer/loading_anim_time">
+        <rotate
+                android:drawable="@drawable/loading_hl"
+                android:fromDegrees="0"
+                android:pivotX="50%"
+                android:pivotY="50%"
+                android:toDegrees="290"
+                android:visible="true"/>
+    </item>
+    <item android:duration="@integer/loading_anim_time">
+        <rotate
+                android:drawable="@drawable/loading_hl"
+                android:fromDegrees="0"
+                android:pivotX="50%"
+                android:pivotY="50%"
+                android:toDegrees="300"
+                android:visible="true"/>
+    </item>
+    <item android:duration="@integer/loading_anim_time">
+        <rotate
+                android:drawable="@drawable/loading_hl"
+                android:fromDegrees="0"
+                android:pivotX="50%"
+                android:pivotY="50%"
+                android:toDegrees="310"
+                android:visible="true"/>
+    </item>
+    <item android:duration="@integer/loading_anim_time">
+        <rotate
+                android:drawable="@drawable/loading_hl"
+                android:fromDegrees="0"
+                android:pivotX="50%"
+                android:pivotY="50%"
+                android:toDegrees="320"
+                android:visible="true"/>
+    </item>
+    <item android:duration="@integer/loading_anim_time">
+        <rotate
+                android:drawable="@drawable/loading_hl"
+                android:fromDegrees="0"
+                android:pivotX="50%"
+                android:pivotY="50%"
+                android:toDegrees="330"
+                android:visible="true"/>
+    </item>
+    <item android:duration="@integer/loading_anim_time">
+        <rotate
+                android:drawable="@drawable/loading_hl"
+                android:fromDegrees="0"
+                android:pivotX="50%"
+                android:pivotY="50%"
+                android:toDegrees="340"
+                android:visible="true"/>
+    </item>
+    <item android:duration="@integer/loading_anim_time">
+        <rotate
+                android:drawable="@drawable/loading_hl"
+                android:fromDegrees="0"
+                android:pivotX="50%"
+                android:pivotY="50%"
+                android:toDegrees="350"
+                android:visible="true"/>
+    </item>
+
+</animation-list>
