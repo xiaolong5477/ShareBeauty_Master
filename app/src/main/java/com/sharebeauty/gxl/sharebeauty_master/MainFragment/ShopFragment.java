@@ -97,6 +97,7 @@ public class ShopFragment extends BaseFragment implements View.OnClickListener{
 
 
 		//自定义功能
+		//测试Github
 		recyclerview.setSlideHeadHeight(listHeaderHeight);
 		recyclerview.setLoadingMoreEnabled(false);
 		recyclerview.setLoadingListener(new XRecyclerView_SlideHead.LoadingListener() {
