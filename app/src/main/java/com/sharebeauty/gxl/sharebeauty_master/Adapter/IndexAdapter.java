@@ -109,6 +109,7 @@ public class IndexAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> 
             index_living= (ImageView) view.findViewById(R.id.index_living);
         }
     }
+    //Item的点击事件
   public  interface OnImageClick{
         void ImageClick(int Id);
     }
